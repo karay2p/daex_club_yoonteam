@@ -1,5 +1,5 @@
 {
-  "name": "daex-club-yoonteam",
+  "name": "daex-club",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,18 +10,23 @@
   },
   "dependencies": {
     "next": "14.2.5",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react": "^18",
+    "react-dom": "^18",
+    "@supabase/supabase-js": "^2.44.4",
+    "@supabase/ssr": "^0.4.0",
+    "date-fns": "^3.6.0",
+    "lucide-react": "^0.400.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
-    "typescript": "5.5.4",
-    "@types/node": "20.14.12",
-    "@types/react": "18.3.3",
-    "@types/react-dom": "18.3.0",
-    "postcss": "8.4.40",
-    "tailwindcss": "3.4.7",
-    "autoprefixer": "10.4.20",
-    "eslint": "8.57.0",
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "eslint": "^8",
     "eslint-config-next": "14.2.5"
   }
 }
