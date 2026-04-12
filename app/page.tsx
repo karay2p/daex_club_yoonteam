@@ -1,3 +1,4 @@
+"use client";
 export default function DAEXClubTeamPage() {
   const members = [
     { name: "박윤영", desc: "D.A.E.X. Club 박윤영팀의 팀원" },
