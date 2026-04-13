@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     siteName: 'D.A.E.X. Club 박윤영팀',
     images: [
       {
-        url: 'https://zukcaxtkikuecgjkzjjt.supabase.co/storage/v1/object/public/notices/og-image.png.png',
+        url: 'https://zukcaxtkikuecgjkzjjt.supabase.co/storage/v1/object/public/notices/og-image.png',
         width: 1200,
         height: 630,
         alt: 'D.A.E.X. Club 박윤영팀',
